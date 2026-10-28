@@ -1,7 +1,12 @@
 # Orthogonality in Banach spaces: a collection of AI-generated and human-guided explorations
 
 > **Warning: the results in this repository may contain errors.**
-> They were produced by an AI model and have NOT necessarily been verified by humans yet. Do not rely on any result here without checking its proof yourself. Each manuscript states its verification status on its first page.
+> They were produced by an AI model and have NOT necessarily been verified by humans yet. Do not rely on any result here without checking its proof yourself. Each manuscript states its verification status on its first page. The fundamental aim is twofold:
+> 1. to exhibit that Human-AI collaboration may indeed produce results in this specific sub-field, which are important in the opinion of the contributor,
+
+
+> 2. To illustrate that writing non-trivial manuscripts have indeed become an overnight job. While the importance of the steerer is undeniable, it is now more important than ever to acknowledge AI-assistance whenever it is taken for mathematical work.
+
 
 This repository collects results on orthogonality in Banach spaces that were produced by an AI model under the guidance of Dr. Debmalya Sain and his collaborators. The results are not meant for publication, but for the advancement of knowledge.
 
@@ -35,9 +40,9 @@ Every manuscript contains a detailed section describing, truthfully and from the
 ## Manuscripts
 
 1. **James' theorem at extreme points: left-symmetric extreme points characterize inner product spaces** ([PDF](left_symmetric_extreme_points.pdf))
-   *Status: not yet verified by a human.*
+   *Status: not yet completely verified by a human.*
 
 
 
    2. **Finite-dimensional spaces whose dual ball has countably many extreme points have Lindenstrauss property B** ([PDF](property_B_countable_extreme_points.pdf))
-   *Status: not yet verified by a human.*
+   *Status: not yet completely verified by a human.*
