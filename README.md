@@ -36,3 +36,8 @@ Every manuscript contains a detailed section describing, truthfully and from the
 
 1. **James' theorem at extreme points: left-symmetric extreme points characterize inner product spaces** ([PDF](left_symmetric_extreme_points.pdf))
    *Status: not yet verified by a human.*
+
+
+
+   2. **Finite-dimensional spaces whose dual ball has countably many extreme points have Lindenstrauss property B** ([PDF](property_B_countable_extreme_points.pdf))
+   *Status: not yet verified by a human.*
